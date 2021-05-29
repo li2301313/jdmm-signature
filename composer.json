@@ -1,0 +1,13 @@
+{
+    "name": "jdmm/signature",
+    "type": "library",
+    "description": "提供加密签名算法",
+    "license": "Apache-2.0",
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Jdmm\\Signature\\": "src/"
+        }
+    }
+}
